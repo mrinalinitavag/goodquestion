@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "Hi! My name is Mrin and I am a data scientist. Sometimes I wonder about things and this little corner of the interwebs is where I indulge my questions, big or small. Thanks for stopping by! . If you want to create your own blog like this one - this website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://mrinalinitavag.github.io/goodquestion/about/",
           "relUrl": "/about/",
           "date": ""
