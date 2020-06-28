@@ -4,9 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Hi! My name is Mrin and I am a data scientist. Sometimes I wonder about things and this little corner of the interwebs is where I indulge my questions, big or small. Thanks for stopping by!
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+If you want to create your own blog like this one - this website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
 
 
